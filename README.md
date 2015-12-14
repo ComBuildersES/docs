@@ -5,6 +5,7 @@ Documentación relacionada con la gestión de comunidades tecnológicas, buenas 
 
 * [Buenas prácticas](best-practices.md)
 * [Herramientas](tools.md)
+* [Referencias](references.md)
 
 # Licencia
 [Attribution-ShareAlike 4.0 International](https://github.com/Comunidades-Tecnologicas/docs/blob/master/license.md)
