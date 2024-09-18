@@ -4,6 +4,7 @@ Documentación relacionada con la gestión de comunidades tecnológicas, buenas 
 # Índice
 
 * [Buenas prácticas](best-practices.md)
+* [Calendarios](calendars.md)
 * [Herramientas](tools.md)
 * [Referencias](references.md)
 
