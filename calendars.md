@@ -5,6 +5,7 @@
 * Calendario por ciudades:
   * [Calendario de comunidades técnicas de Málaga](https://geekstorming.wordpress.com/calendario-comunidades-tecnicas/)
   * [Calendario de eventos técnicos de Granada](https://sites.google.com/view/eventostechgranada/home)
+  * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
 * [Otros esfuerzos manuales caseros](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet)
 * [Agregador de calendarios (by Jesús Cea)](http://calendario.es.python.org/fusion.ics)
 * [Agenda Betabeers](https://betabeers.com/event/)
