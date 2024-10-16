@@ -1,4 +1,4 @@
-# Herramientas reutilizables por otros organizadores
+# Herramientas para personas que dinamizan comunidades
 
 ## Organización de encuentros
 
