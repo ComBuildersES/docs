@@ -14,5 +14,5 @@
 
 ## Otras
 
-* [Timezone converter spreasheet](https://docs.google.com/spreadsheets/d/1aQN0N2ugarrlxZhq8rdFMKo6qloE9cuOecDGqD3cPfQ/edit?usp=sharing
+* [Timezone converter spreasheet](https://docs.google.com/spreadsheets/d/1aQN0N2ugarrlxZhq8rdFMKo6qloE9cuOecDGqD3cPfQ/edit?usp=sharing)
 * [Herramientas para ajustar YouTube timestamps después de recortar el inicio de un vídeo](https://github.com/hhkaos/adjust-youtube-timestamp-after-trim)
