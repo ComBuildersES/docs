@@ -2,8 +2,9 @@
 
 ## Organización de encuentros
 
-* [Meetup](http://meetup.com)
 * [Gitevents](https://github.com/gitevents/core)
+* [Meetup](http://meetup.com)
+* [Lu.ma](https://lu.ma/)
 
 ## Métricas
 
