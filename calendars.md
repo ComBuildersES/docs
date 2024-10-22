@@ -2,7 +2,7 @@
 
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España, creo)
 * [eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
-* Calendario por ciudades:
+* Calendario por ciudades/provincias:
   * [Calendario de comunidades técnicas de Coruña](https://coruna.events/)
   * [Calendario de eventos técnicos de Granada](https://sites.google.com/view/eventostechgranada/home)
   * [Calendario de comunidades técnicas de Málaga](https://geekstorming.wordpress.com/calendario-comunidades-tecnicas/)
