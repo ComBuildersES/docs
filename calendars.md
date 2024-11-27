@@ -5,6 +5,7 @@
 * Calendario por ciudades/provincias:
   * [Calendario de comunidades técnicas de Coruña](https://coruna.events/)
   * [Calendario de eventos técnicos de Granada](https://sites.google.com/view/eventostechgranada/home)
+  * [Calendario de comunidades técnicas de La Rioja](https://web.archive.org/web/20230309185755/http://www.lariojatech.org/) (inactivo)
   * [Calendario de comunidades técnicas de Málaga](https://geekstorming.wordpress.com/calendario-comunidades-tecnicas/)
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
 * [Otros esfuerzos manuales caseros](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet)
