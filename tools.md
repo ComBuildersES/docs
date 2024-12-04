@@ -3,7 +3,7 @@
 
 ## Para conferencias:
 * [TOP](https://top.gal/): Tema Lume para crear un sitio web para un evento tecnológico
-* [badgeyay]([url](https://github.com/fossasia/badgeyay)): Generador de credenciales para conferencias
+* [badgeyay](https://github.com/fossasia/badgeyay): Generador de credenciales para conferencias
 
 ## Organización de Tech Meetups
 
