@@ -1,6 +1,11 @@
 # Herramientas para personas que dinamizan comunidades
 
-## Organización de encuentros
+
+## Para conferencias:
+* [TOP](https://top.gal/): Tema Lume para crear un sitio web para un evento tecnológico
+* [badgeyay]([url](https://github.com/fossasia/badgeyay)): Generador de credenciales para conferencias
+
+## Organización de Tech Meetups
 
 * [Gitevents](https://github.com/gitevents/core)
 * [Meetup](http://meetup.com)
