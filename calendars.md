@@ -6,7 +6,6 @@ Este es un listado de diferentes proyectos realizados con el fin de recopilar ev
   * [Calendario de comunidades técnicas de Coruña](https://coruna.events/)
   * [Calendario de eventos técnicos de Granada](https://sites.google.com/view/eventostechgranada/home)
   * [Calendario de comunidades técnicas de La Rioja](https://web.archive.org/web/20230309185755/http://www.lariojatech.org/) (inactivo)
-  * [Calendario de comunidades técnicas de Madrid](https://madridtechtalks.com/)
   * [Calendario de comunidades técnicas de Málaga](https://geekstorming.wordpress.com/calendario-comunidades-tecnicas/)
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
   * [Calendario de comunidades técnicas de Vigo](https://vigotech.org/)
@@ -21,5 +20,6 @@ Este es un listado de diferentes proyectos realizados con el fin de recopilar ev
 
 ## Conferencias y tech meetups
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España, creo)
+* [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde {2022)
