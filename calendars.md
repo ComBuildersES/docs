@@ -10,6 +10,7 @@ Este es un listado de diferentes proyectos realizados con el fin de recopilar ev
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
   * [Calendario de comunidades técnicas de Vigo](https://vigotech.org/)
 * Calendario de comunidades en España: [Agregador de calendarios (by Jesús Cea)](http://calendario.es.python.org/fusion.ics)
+* 
 
 ## Conferencias
 * [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
@@ -21,5 +22,6 @@ Este es un listado de diferentes proyectos realizados con el fin de recopilar ev
 ## Conferencias y tech meetups
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España, creo)
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
+* [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
 * [eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde {2022)
