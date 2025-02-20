@@ -4,13 +4,12 @@ Este es un listado de diferentes proyectos realizados con el fin de recopilar ev
 ## Tech meetups
 * Calendarios por zonas geográficas:
   * [Calendario de comunidades técnicas de Coruña](https://coruna.events/)
-  * [Calendario de eventos técnicos de Granada](https://sites.google.com/view/eventostechgranada/home)
+  * [Calendario de eventos técnicos de Granada](https://www.granadatech.org/)
   * [Calendario de comunidades técnicas de La Rioja](https://web.archive.org/web/20230309185755/http://www.lariojatech.org/) (inactivo)
-  * [Calendario de comunidades técnicas de Málaga](https://geekstorming.wordpress.com/calendario-comunidades-tecnicas/)
+  * [Calendario de comunidades técnicas de Málaga](https://geekstorming.wordpress.com/calendario-comunidades-tecnicas/) | [Encuentros Tech](https://www.encuentrostech.com/)
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
   * [Calendario de comunidades técnicas de Vigo](https://vigotech.org/)
 * Calendario de comunidades en España: [Agregador de calendarios (by Jesús Cea)](http://calendario.es.python.org/fusion.ics)
-* 
 
 ## Conferencias
 * [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
