@@ -12,6 +12,10 @@
 * [Lu.ma](https://lu.ma/)
 * [¿Echas en falta alguna?](https://github.com/ComBuildersES/docs/issues/2)
 
+## Financiación
+
+* [Open Collective](https://opencollective.com/): herramienta para financiar colectivos sin estructura legal (ej: [Madrid GUG](https://opencollective.com/madridgug))
+
 ## Métricas
 
 * [MeetupFetcher](https://github.com/ntkog/Meetup-fetcher): herramienta para extraer datos de la API de Meetup
