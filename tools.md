@@ -15,6 +15,7 @@
 ## Financiación
 
 * [Open Collective](https://opencollective.com/): herramienta para financiar colectivos sin estructura legal (ej: [Madrid GUG](https://opencollective.com/madridgug))
+* [ti.to](https://ti.to/home): Herramienta para gestionar tickets
 
 ## Métricas
 
@@ -25,5 +26,6 @@
 
 ## Otras
 
+* [Venue](https://github.com/sirikon/venue): Web application used for BilboStack feedback and questions
 * [Timezone converter spreasheet](https://docs.google.com/spreadsheets/d/1aQN0N2ugarrlxZhq8rdFMKo6qloE9cuOecDGqD3cPfQ/edit?usp=sharing)
 * [Herramientas para ajustar YouTube timestamps después de recortar el inicio de un vídeo](https://github.com/hhkaos/adjust-youtube-timestamp-after-trim)
